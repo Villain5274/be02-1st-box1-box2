@@ -1,0 +1,5 @@
+IP 1.1.1.1
+PORT
+ID
+PW
+DBNAME
